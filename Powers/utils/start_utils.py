@@ -73,7 +73,7 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "Essential",
-                    "https://t.me/+PcVYvdzNt4E1YjM1",
+                    "https://t.me/unknown_bande",
                     "url",
                 ),
                 (
